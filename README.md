@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=souravs72&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
----
 
 ### **Tech Stack**
 
