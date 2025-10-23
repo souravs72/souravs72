@@ -2,16 +2,14 @@
 
 # 👋 Hi there, I'm Sourav Singh
 
-<div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=souravs72&style=for-the-badge&color=blue)
-</div>
-
 ### **Full-Stack Developer & DevOps Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav-singh-060b31135)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souravsingh2609@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.souravsingh.online/)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=souravs72&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
 ---
 
 ### **Tech Stack**
